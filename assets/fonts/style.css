@@ -1,6 +1,6 @@
 @font-face {
-   font-family: 'bpg_no9';
-   src: url('bpg_no9/font.ttf');
+   font-family: 'bpg_web_002_caps';
+   src: url('bpg_web_002_caps/font.ttf');
 }
 @font-face {
    font-family: 'bpg_banner_extrasquare_caps';
@@ -9,8 +9,4 @@
 @font-face {
    font-family: 'bpg_web';
    src: url('bpg_web/font.ttf');
-}
-@font-face {
-   font-family: 'bpg_web_002_caps';
-   src: url('bpg_web_002_caps/font.ttf');
 }
